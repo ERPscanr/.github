@@ -1,5 +1,8 @@
 # Automated meta-analysis of the ERP related literature
 
+[![Website](https://img.shields.io/badge/website-erpscanr.github.io-informational.svg)](https://erpscanr.github.io/)
+[![DOI](https://img.shields.io/badge/paper-10.1038/s41598.022.05939.9-success.svg)](https://doi.org/10.1038/s41598-022-05939-9)
+
 This organization hosts a research project analyzing the topic of 
 event-related potentials in the scientific literature. 
 
